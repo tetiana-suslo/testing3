@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588604585091.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4A0A4E59",
+    "lastKnownWriteTime" : 1588604782,
+    "last_content_update" : 1588604782288,
+    "path" : "~/R/testing3/testing3.Rproj",
+    "project_path" : "testing3.Rproj",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
